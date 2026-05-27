@@ -1,40 +1,31 @@
+# Jasper Lutz Severino
+
+Backend-focused software engineer from Spain with experience building scalable
+applications, developer tooling, and web platforms.
+
+[Email](mailto:jasperlutzseverino@gmail.com) ·
+[Twitter](https://twitter.com/lutzseverino) ·
+[GitHub](https://github.com/lutzseverino)
+
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=oracle&logoColor=white" >
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flate&logo=mongodb&logoColor=white" >
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1" >
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" >
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" >
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" >
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" >
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" >
-  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" >
-  <img alt="Gimp Gnu Image Manipulation Program" src="https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF" >
-</p>
-<p>
-  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white" >
-  <img alt="GNOME" src="https://img.shields.io/badge/GNOME-4A86CF?style=flat&logo=GNOME&logoColor=white" >
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white" >
-  <img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white" >　
-  <a href="mailto:jasperlutzseverino@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/jasperlutzseverino-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/LutzSeverino"><img alt="Twitter" src="https://img.shields.io/badge/LutzSeverino-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white"></a>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 </p>
 
-![lutzseverino](https://user-images.githubusercontent.com/28309837/236696167-c77140ab-5900-4e49-b1ec-152c8092cd75.png)
+## About me
 
-Welcome to my GitHub profile! My name is **Jasper Lutz Severino**, and I'm a developer from **Spain**. I'm most experienced in **backend development**, but I'm also interested in frontend work and graphic design. 
+I'm primarily focused on backend engineering, especially Java and Spring Boot
+ecosystems, although I also work comfortably across frontend and mobile
+development using React, React Native, and Angular.
 
-I'm currently being employed at **Volkswagen Group Services Barcelona** as a **Java developer**.
+I enjoy building developer tooling, modular systems, and infrastructure-oriented
+projects with a strong focus on architecture and maintainability.
 
-<!--
-**Frequential/frequential** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... 
-- ⚡ Fun fact: ...
--->
+Currently working as a software engineer at **Volkswagen Group Services Barcelona**.
