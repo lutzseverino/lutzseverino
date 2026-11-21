@@ -3,9 +3,11 @@
 Backend-focused software engineer from Spain with experience building scalable
 applications, developer tooling, and web platforms.
 
+[Website](https://lutzseverino.com) ·
+[LinkedIn](https://www.linkedin.com/in/lutzseverino) ·
+[YouTube](https://www.youtube.com/@lutz) ·
 [Email](mailto:jasperlutzseverino@gmail.com) ·
-[Twitter](https://twitter.com/lutzseverino) ·
-[GitHub](https://github.com/lutzseverino)
+[X](https://x.com/lutzseverino)
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
